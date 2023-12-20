@@ -3,4 +3,5 @@ export { default as Feed} from './Feed' ;
 export { default as ChannelDetail} from './ChannelDetail' ;
 export { default as SearchFeed} from './SearchFeed' ;
 export { default as VideoDetail} from './VideoDetail';
-//Export all other files in this for direct import ...
+export {default as Videos} from './Videos';
+export {default as ChannelCard} from './ChannelCard';
